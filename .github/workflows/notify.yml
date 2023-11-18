@@ -17,7 +17,9 @@ jobs:
     steps:
       - name: "Notify Github"
         env:
-            GITHUB_TOKEN: ${{ secrets.GI_TOKEN }}
+            CI_TOKEN: ${{ secrets.GI_TOKEN }}
             PARENT_REPO: 'Renddslow/tamnui-wiki-site'
             PARENT_BRANCH: 'main'
-            WORKFLOW_ID: 'content/bibleReadings'
+            WORKFLOW_ID: '76576244'
+        run: |
+          curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.CI_TOKEN }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
