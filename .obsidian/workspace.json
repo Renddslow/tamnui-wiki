@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Em La'ar Malar poem.md",
+                "file": "Language Families.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Em La'ar Malar poem.md",
+                "file": "Language Families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Em La'ar Malar poem.md",
+                "file": "Language Families.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Em La'ar Malar poem.md"
+                "file": "Language Families.md"
               }
             }
           }
@@ -173,18 +173,19 @@
   },
   "active": "036b3c021ec3ab70",
   "lastOpenFiles": [
-    "Ancient Mousefolk.md",
     "Em La'ar Malar poem.md",
+    "images",
+    "Ancient Mousefolk.md",
     "145 BME.md",
     "Prime Humanoid.md",
     "Language Families.md",
     "9,600 BME.md",
     "75,000 BME.md",
     "How the Goblins Came to Be.md",
-    "gliresoid_lang_fam.png",
-    "southern_continent_lang_fam.png",
-    "theriaoid_lang_fam.png",
-    "avian_lang_fam.png",
+    "images/gliresoid_lang_fam.png",
+    "images/southern_continent_lang_fam.png",
+    "images/theriaoid_lang_fam.png",
+    "images/avian_lang_fam.png",
     "Playable Races.md",
     "avian_lang_fam.png.md",
     "Prime-Native Species.md",
