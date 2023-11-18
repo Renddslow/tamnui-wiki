@@ -1,0 +1,23 @@
+name: "Notify Parent"
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  notify:
+    name: "Submodule Notify Parent"
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: "Notify Github"
+        env:
+            GITHUB_TOKEN: ${{ secrets.GI_TOKEN }}
+            PARENT_REPO: 'Renddslow/tamnui-wiki-site'
+            PARENT_BRANCH: 'main'
+            WORKFLOW_ID: 'content/bibleReadings'

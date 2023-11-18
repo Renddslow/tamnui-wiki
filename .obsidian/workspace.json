@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prime Humanoid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "036b3c021ec3ab70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Language Families.md",
                 "mode": "source",
                 "source": false
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,14 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "036b3c021ec3ab70",
+  "active": "358aa7c472f0acf1",
   "lastOpenFiles": [
+    "Prime Humanoid.md",
+    "Language Families.md",
+    "Jotun-Migratory Species.md",
     "Em La'ar Malar poem.md",
     "images",
     "Ancient Mousefolk.md",
     "145 BME.md",
-    "Prime Humanoid.md",
-    "Language Families.md",
     "9,600 BME.md",
     "75,000 BME.md",
     "How the Goblins Came to Be.md",
@@ -191,7 +179,6 @@
     "Prime-Native Species.md",
     "The Branching.md",
     "prime_language_families.png",
-    "Jotun-Migratory Species.md",
     "How Halfling and Dwarf Came to Have Wives.md",
     "How Human Came to Have a Wife.md"
   ]
