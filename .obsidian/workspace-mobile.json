@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language Families.md",
-                "mode": "preview",
+                "file": "Lauds-Migratory Species.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Language Families.md",
+            "file": "Lauds-Migratory Species.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Language Families.md",
+            "file": "Lauds-Migratory Species.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Language Families.md"
+            "file": "Lauds-Migratory Species.md"
           }
         }
       }
@@ -154,12 +154,22 @@
   },
   "active": "eea0b07c223aa127",
   "lastOpenFiles": [
+    "Prime-Native Species.md",
+    "Lauds-Migratory Species.md",
     "Playable Races.md",
-    "Language Families.md",
     "Jotun-Migratory Species.md",
+    "images/gliresoid_lang_fam.png",
+    "Language Families.md",
+    "images/avian_lang_fam.png",
+    "images/theriaoid_lang_fam.png",
+    "images/southern_continent_lang_fam.png",
+    "How the Goblins Came to Be.md",
+    "145 BME.md",
+    "Em La'ar Malar poem.md",
+    "Ancient Mousefolk.md",
+    "9,600 BME.md",
     "75,000 BME.md",
     "How Human Came to Have a Wife.md",
-    "Prime-Native Species.md",
     "How Halfling and Dwarf Came to Have Wives.md",
     "The Branching.md",
     "Prime Humanoid.md"

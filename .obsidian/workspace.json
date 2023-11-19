@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "f55cd3407b7d2137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d1aa012106170e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1805d7e6ef2da307",
             "type": "leaf",
             "state": {
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language Families.md",
+                "file": "Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language Families.md",
+                "file": "Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language Families.md"
+                "file": "Human.md"
               }
             }
           }
@@ -158,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358aa7c472f0acf1",
+  "active": "9d1aa012106170e9",
   "lastOpenFiles": [
-    "Prime Humanoid.md",
+    "Index.md",
+    "Human.md",
     "Language Families.md",
+    "Prime-Native Species.md",
+    "Prime Humanoid.md",
+    "Playable Races.md",
+    "Lauds-Migratory Species.md",
     "Jotun-Migratory Species.md",
     "Em La'ar Malar poem.md",
     "images",
@@ -174,9 +204,7 @@
     "images/southern_continent_lang_fam.png",
     "images/theriaoid_lang_fam.png",
     "images/avian_lang_fam.png",
-    "Playable Races.md",
     "avian_lang_fam.png.md",
-    "Prime-Native Species.md",
     "The Branching.md",
     "prime_language_families.png",
     "How Halfling and Dwarf Came to Have Wives.md",
