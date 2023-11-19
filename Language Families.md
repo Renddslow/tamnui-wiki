@@ -3,7 +3,7 @@
 The Prime Sphere has four surviving language families.
 ### Avianoid Language Family
 
-![[avian_lang_fam.png]]
+![[images/avian_lang_fam.png]]
 ### Gliresoid Language Family
 
 The languages spoken primarily by woodland beast-men. The earliest common language was the theorized Proto-Southwestern-Gliresoid. This gave way to much attested Rabbitfolk, spoken by early civilizations of Harengon.
@@ -16,16 +16,16 @@ Rabbitfolk dominance has led to two distinct dialects and an imperial tradelangu
 
 Ancient Mousefolk is still used occasionally in certain cultic practices, like in the worship of [[Field Mouse Mother]] and [[Black Cat]], but otherwise is merely a cultural artifact of Mousefolk culture.
 
-![[gliresoid_lang_fam.png]]
+![[images/gliresoid_lang_fam.png]]
 ### Southern Continental Language Family
 
 Humanoids [[Prime Humanoid|evolved on the southern continent]] over tens of thousands of years. Southern neolithic was the language spoken by the ancient cousins of PHLUCA. These creatures eventually devolved into the [[Goblinoid (genus)|Goblinoid genus]] through the [[How the Goblins Came to Be|influence]] of [[The Master]] and [[Early-Grave]].
 
-![[southern_continent_lang_fam.png]]
+![[images/southern_continent_lang_fam.png]]
 ### Theriaoid
 
 Somewhere around the time of the [[Northern Changing]], the Proto-Theriaoid language began to be spoken by all bi-pedal, land-dwelling beast-men in the northern continent.
 
 As the three races became isolated from one another and moving into different climate zones, they developed distinctive languages over the course of thousands of years. Eventually, Centaurs and Northern Humans would develop close relations and a language influenced by both Northshore Common and Centaur developed.
 
-![[theriaoid_lang_fam.png]]
+![[images/theriaoid_lang_fam.png]]
