@@ -1,6 +1,10 @@
 - [[Playable Races]]
 - [[Language Families]]
 
+## Myths
+- [[How Halfling and Dwarf Came to Have Wives]]
+- [[How Human Came to Have a Wife]]
+
 ## Races
 - [[Aarakocra]]
 - [[Centaur]]

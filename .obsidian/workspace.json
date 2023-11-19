@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language Families.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language Families.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language Families.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language Families.md"
+                "file": "Index.md"
               }
             }
           }
@@ -185,9 +185,11 @@
   },
   "active": "9d1aa012106170e9",
   "lastOpenFiles": [
+    "The Branching.md",
+    "Untitled.canvas",
+    "Language Families.md",
     "Human.md",
     "Index.md",
-    "Language Families.md",
     "Prime-Native Species.md",
     "Prime Humanoid.md",
     "Playable Races.md",
@@ -205,7 +207,6 @@
     "images/theriaoid_lang_fam.png",
     "images/avian_lang_fam.png",
     "avian_lang_fam.png.md",
-    "The Branching.md",
     "prime_language_families.png",
     "How Halfling and Dwarf Came to Have Wives.md",
     "How Human Came to Have a Wife.md"
