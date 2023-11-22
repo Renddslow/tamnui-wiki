@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperial Ugatoti.md",
+                "file": "Loshur-Telim.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imperial Ugatoti.md",
+                "file": "Ashur-Azher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imperial Ugatoti.md",
+                "file": "Ashur-Azher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imperial Ugatoti.md"
+                "file": "Ashur-Azher.md"
               }
             }
           }
@@ -171,17 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358aa7c472f0acf1",
+  "active": "21a5f247f418a65e",
   "lastOpenFiles": [
+    "Loshur-Telim.md",
+    "Index.md",
+    "Imperial Ugatoti.md",
     "Ancient Mousefolk.md",
     "Ashur-Azher.md",
-    "Imperial Ugatoti.md",
     "How Human Came to Have a Wife.md",
     "Language Families.md",
     "Harengon.md",
     "Pasted image 20231122141148.png",
     "Human.md",
-    "Index.md",
     "Prime Humanoid.md",
     "Prime-Native Species.md",
     "45,000 BME.md",
