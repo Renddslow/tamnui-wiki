@@ -2,9 +2,9 @@
 
 All humanoid races share a [[Prime Humanoid|common ancestor]], but it is likely that a patron deity was involved in the division between the three races.
 
-- Dwarf
-- Human
-- Halfling
+- [[Dwarf]]
+- [[Human]]
+- [[Halfling]]
 
 ## Beast-men
 
