@@ -1,0 +1,1 @@
+> A beast-man with the wings and dominant features of an Eagle.

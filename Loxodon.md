@@ -1,0 +1,1 @@
+**Loxodon** () are a race of beast-men resembling elephants. They originated on the northern continent during the [[Northern Changing]].
