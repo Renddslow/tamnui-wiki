@@ -3,7 +3,7 @@ size: Medium
 alignment: Any
 average_lifespan: Less than a century
 languages: 
-image: https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Human-5e.png/revision/latest?cb=20171222050434
+image: /images/human_portrait.webp
 info_box_type: race
 race: Human
 ---
