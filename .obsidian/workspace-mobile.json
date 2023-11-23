@@ -21,8 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lauds-Migratory Species.md",
+                "file": "Loshur-Telim.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -106,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lauds-Migratory Species.md",
+            "file": "Loshur-Telim.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lauds-Migratory Species.md",
+            "file": "Loshur-Telim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lauds-Migratory Species.md"
+            "file": "Loshur-Telim.md"
           }
         }
       }
@@ -152,10 +153,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eea0b07c223aa127",
+  "active": "5bd8029f4baca6a2",
   "lastOpenFiles": [
-    "Prime-Native Species.md",
+    "The Master.md",
+    "The Branching.md",
+    "How Halfling and Dwarf Came to Have Wives.md",
+    "Loshur-Telim.md",
     "Lauds-Migratory Species.md",
+    "Ashur-Azher.md",
+    "Imperial Ugatoti.md",
+    "Harengon.md",
+    "Halfling.md",
+    "Prime-Native Species.md",
     "Playable Races.md",
     "Jotun-Migratory Species.md",
     "images/gliresoid_lang_fam.png",
@@ -170,8 +179,6 @@
     "9,600 BME.md",
     "75,000 BME.md",
     "How Human Came to Have a Wife.md",
-    "How Halfling and Dwarf Came to Have Wives.md",
-    "The Branching.md",
     "Prime Humanoid.md"
   ]
 }
