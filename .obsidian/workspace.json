@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "358aa7c472f0acf1",
+            "id": "e08c00f34c879e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "How Halfling and Dwarf Came to Have Wives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a9030f03a85851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Early-Grave.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +62,25 @@
               "type": "markdown",
               "state": {
                 "file": "Ancient Mousefolk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edcfb0ff34a6a639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358aa7c472f0acf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ashur-Azher.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "Early-Grave.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "Early-Grave.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ashur-Azher.md"
+                "file": "Early-Grave.md"
               }
             }
           }
@@ -183,8 +214,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358aa7c472f0acf1",
+  "active": "b9a9030f03a85851",
   "lastOpenFiles": [
+    "How Halfling and Dwarf Came to Have Wives.md",
+    "Early-Grave.md",
+    "Mem.md",
+    "images/early-grave_portrait.webp",
+    "Ashur-Azher.md",
     "Imperial Ugatoti.md",
     "images/mem_portrait.png",
     "images/ashur-azher_portrait.png",
@@ -206,8 +242,6 @@
     "Human.md",
     "images/tamnui_logo.png",
     "images/human_portrait.png",
-    "images/halfling_portrait.webp",
-    "Ashur-Azher.md",
     "The Master.md",
     "Ancient Mousefolk.md",
     "How Human Came to Have a Wife.md",
@@ -220,8 +254,6 @@
     "Untitled.canvas",
     "Playable Races.md",
     "Lauds-Migratory Species.md",
-    "Jotun-Migratory Species.md",
-    "Em La'ar Malar poem.md",
     "images"
   ]
 }
