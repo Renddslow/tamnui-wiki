@@ -5,6 +5,7 @@ average_lifespan: Less than a century
 languages: 
 image: https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Human-5e.png/revision/latest?cb=20171222050434
 info_box_type: race
+race: Human
 ---
 Humans are one of the oldest native races on [[Prime]]. Not much is known about the evolution of their earliest ancestor [[Prime-Native Species|PHLUCA]], but Humans were created through the [[The Branching|incursion]] of the three sisters, [[Wife]], [[Lover]], and [[Early-Grave]]. 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "Human.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ashur-Azher.md",
+                "file": "Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ashur-Azher.md"
+                "file": "Human.md"
               }
             }
           }
@@ -174,12 +174,12 @@
   },
   "active": "21a5f247f418a65e",
   "lastOpenFiles": [
+    "Ashur-Azher.md",
     "The Master.md",
     "Loshur-Telim.md",
     "Index.md",
     "Imperial Ugatoti.md",
     "Ancient Mousefolk.md",
-    "Ashur-Azher.md",
     "How Human Came to Have a Wife.md",
     "Language Families.md",
     "Harengon.md",
