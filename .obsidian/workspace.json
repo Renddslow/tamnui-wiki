@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kenku.md",
+                "file": "Ashur-Azher.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kenku.md",
+                "file": "Ashur-Azher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kenku.md",
+                "file": "Ashur-Azher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kenku.md"
+                "file": "Ashur-Azher.md"
               }
             }
           }
@@ -185,10 +185,19 @@
   },
   "active": "358aa7c472f0acf1",
   "lastOpenFiles": [
+    "Imperial Ugatoti.md",
+    "images/mem_portrait.png",
+    "images/ashur-azher_portrait.png",
+    "images/mem.webp",
+    "images/mem.webp.crdownload",
+    "images/ashur-azher.webp",
+    "images/wife_portrait.webp",
+    "images/marshar_portrait.webp",
+    "Kenku.md",
+    "images/loshur_telim.webp",
     "Index.md",
     "Triton.md",
     "Loxodon.md",
-    "Kenku.md",
     "Harengon.md",
     "Genasi.md",
     "Duergar.md",
@@ -198,14 +207,11 @@
     "images/tamnui_logo.png",
     "images/human_portrait.png",
     "images/halfling_portrait.webp",
-    "images/human_portrait.webp",
     "Ashur-Azher.md",
     "The Master.md",
-    "Imperial Ugatoti.md",
     "Ancient Mousefolk.md",
     "How Human Came to Have a Wife.md",
     "Language Families.md",
-    "Pasted image 20231122141148.png",
     "Prime Humanoid.md",
     "Prime-Native Species.md",
     "45,000 BME.md",
@@ -216,12 +222,6 @@
     "Lauds-Migratory Species.md",
     "Jotun-Migratory Species.md",
     "Em La'ar Malar poem.md",
-    "images",
-    "145 BME.md",
-    "images/gliresoid_lang_fam.png",
-    "images/southern_continent_lang_fam.png",
-    "images/theriaoid_lang_fam.png",
-    "images/avian_lang_fam.png",
-    "prime_language_families.png"
+    "images"
   ]
 }

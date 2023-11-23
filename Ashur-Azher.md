@@ -1,3 +1,8 @@
+---
+info_box_type: deity
+image: /images/ashur-azher_portrait.png
+name: Ashur-Azher
+---
 > The one who came before
 > He has no beginning
 > With is end will come the end
