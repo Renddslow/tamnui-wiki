@@ -1,1 +1,0 @@
-**Harengon** ([[Imperial Ugatoti]]: *Efi-ga*) is a race of beast-men which resemble rabbits that originated on the Southwestern continent during the [[Southern Changing]].

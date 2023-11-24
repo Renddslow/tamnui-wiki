@@ -1,3 +1,0 @@
-Genasi (pronounced: /dʒɛnˈɑːsi/ jen-AH-see) were elementally changed elves, infused with the power of the elements. Genasi originate from [[Lauds]] and came through the [[Southwestern Gate|Southwestern gate]] around 150 BME.
-
-Technically speaking, the genasi were not a race but rather a general classification of elves who had a heritage (usually unknown) that included some planar being from one of the elemental planes, most often a genie, (dao, djinn, efreet, marid, or jann) from whence their name is derived.
