@@ -2,6 +2,13 @@
 info_box_type: deity
 image: /images/ashur-azher_portrait.png
 name: Ashur-Azher
+titles:
+  - The One Who Came Before
+  - The Creator
+pantheons:
+  - Ugati
+gender: Masculine
+alignment: Lawful Neutral
 ---
 > The one who came before
 > He has no beginning
