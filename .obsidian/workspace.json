@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wife.md",
+                "file": "Weaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wife.md",
+                "file": "Weaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wife.md",
+                "file": "Weaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wife.md"
+                "file": "Weaver.md"
               }
             }
           }
@@ -216,8 +216,11 @@
   },
   "active": "358aa7c472f0acf1",
   "lastOpenFiles": [
-    "Index.md",
+    "How Human Came to Have a Wife.md",
+    "Weaver.md",
     "Wife.md",
+    "images/weaver_portrait.webp",
+    "Index.md",
     "Lover.md",
     "images/lover_portrait.png",
     "Ashur-Azher.md",
@@ -225,7 +228,6 @@
     "The Shepherds.md",
     "Language Families.md",
     "Loshur-Telim.md",
-    "How Human Came to Have a Wife.md",
     "images/wise_hammer.webp",
     "Early-Grave.md",
     "How Halfling and Dwarf Came to Have Wives.md",
@@ -240,7 +242,6 @@
     "images/wife_portrait.webp",
     "images/marshar_portrait.webp",
     "Kenku.md",
-    "images/loshur_telim.webp",
     "Triton.md",
     "Loxodon.md",
     "Harengon.md",
@@ -252,7 +253,6 @@
     "Ancient Mousefolk.md",
     "Prime Humanoid.md",
     "Prime-Native Species.md",
-    "45,000 BME.md",
     "Untitled.canvas",
     "images"
   ]
