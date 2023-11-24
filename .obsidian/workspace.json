@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "e261024738754860",
+    "type": "split",
+    "children": [
+      {
+        "id": "80699a2780bfb2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e08c00f34c879e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Halfling and Dwarf Came to Have Wives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9a9030f03a85851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ashur-Azher.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2347b7dca2effef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Triton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc1fb46b91361b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harengon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f55cd3407b7d2137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Mousefolk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edcfb0ff34a6a639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "358aa7c472f0acf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wife.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de25b2b04cb5a014",
+    "type": "split",
+    "children": [
+      {
+        "id": "2820a905df0a2564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e0ba05b0dd7ed2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c53a5b2fd1edcfdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "imperial rabbitfo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "842fac34f6842abf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36cd6137521e25c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfd75ae598fff28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8cbb4a95b052867",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wife.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f3642ddf66b819d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wife.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "81b7fd2fad1ec309",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "241b4cd4a2d1f5cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wife.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "358aa7c472f0acf1",
+  "lastOpenFiles": [
+    "Index.md",
+    "Wife.md",
+    "Lover.md",
+    "images/lover_portrait.png",
+    "Ashur-Azher.md",
+    "Wise-Hammer.md",
+    "The Shepherds.md",
+    "Language Families.md",
+    "Loshur-Telim.md",
+    "How Human Came to Have a Wife.md",
+    "images/wise_hammer.webp",
+    "Early-Grave.md",
+    "How Halfling and Dwarf Came to Have Wives.md",
+    "Mem.md",
+    "images/early-grave_portrait.webp",
+    "Imperial Ugatoti.md",
+    "images/mem_portrait.png",
+    "images/ashur-azher_portrait.png",
+    "images/mem.webp",
+    "images/mem.webp.crdownload",
+    "images/ashur-azher.webp",
+    "images/wife_portrait.webp",
+    "images/marshar_portrait.webp",
+    "Kenku.md",
+    "images/loshur_telim.webp",
+    "Triton.md",
+    "Loxodon.md",
+    "Harengon.md",
+    "Genasi.md",
+    "Duergar.md",
+    "Aarakocra.md",
+    "Human.md",
+    "The Master.md",
+    "Ancient Mousefolk.md",
+    "Prime Humanoid.md",
+    "Prime-Native Species.md",
+    "45,000 BME.md",
+    "Untitled.canvas",
+    "images"
+  ]
+}
