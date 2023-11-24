@@ -1,3 +1,8 @@
+---
+image: /images/loshur_telim.webp
+name: Loshur-Telim
+info_box_type: deity
+---
 > The one who is none after all
 
 The old poetic epithet of [[Ashur-Azher]] claims that there will be none after him. [[Ugati]] people believe this to be a claim about his greatness, that the cosmos begins and ends with him and that he has no equal. 
