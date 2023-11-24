@@ -13,6 +13,7 @@
 - [[Early-Grave]]
 - [[Lover]]
 - [[Wise-Hammer]]
+- [[Prime (deity)]]
 
 ## Races
 - [[Aarakocra]]

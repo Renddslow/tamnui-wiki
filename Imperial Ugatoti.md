@@ -100,6 +100,8 @@ Ugatoti marks nouns for gender and number.
 	1. (m. n.) a king
 - **ʃarut**
 	1. (f. n.) a queen
+- **ʃɛmʃ**
+	1. (m. n.) sun
 - **telim**
 	1. (m. n.) after
 - **ugati**
