@@ -7,7 +7,7 @@ image: /images/human_portrait.png
 info_box_type: race
 race: Human
 ---
-Humans are one of the oldest native races on [[Prime]]. Not much is known about the evolution of their earliest ancestor [[Prime-Native Species|PHLUCA]], but Humans were created through the [[The Branching|incursion]] of the three sisters, [[Wife]], [[Lover]], and [[Early-Grave]]. 
+Humans are one of the oldest native races on [[Prime]]. Not much is known about the evolution of their earliest ancestor [[Prime-Native Species|PHLUCA]], but Humans were created through the [[The Branching|incursion]] of the three sisters, [[Geneshhi]], [[Lover]], and [[Early-Grave]]. 
 
 ## Ethnicities
 ...

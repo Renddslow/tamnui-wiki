@@ -1,6 +1,6 @@
 #myth #dwarf #halfling 
 
-About the time when [[Dwarf]] began digging and [[Halfling]] began farming and Human began to set his hand to war, [[Wise-Hammer]] saw that [[Wife]], and [[Lover]], and [[Early-Grave]] had not given to them wives. And he saw that all the creatures of the land were not like Dwarf or Halfling or Human, for they could not reason nor be industrious.
+About the time when [[Dwarf]] began digging and [[Halfling]] began farming and Human began to set his hand to war, [[Wise-Hammer]] saw that [[Geneshhi]], and [[Lover]], and [[Early-Grave]] had not given to them wives. And he saw that all the creatures of the land were not like Dwarf or Halfling or Human, for they could not reason nor be industrious.
 
 So [[Wise-Hammer]] sat on [[Har Moed|the mountain where the gods meet]] until the three sisters passed him by. Now it was about this time that the three sisters would [[War of the Three Sisters|go to war]], for Human had killed one of the sons of Halfling and had begun to make war upon the land. Now when the sisters passed by [[Wise-Hammer]] on the mountain where the gods meet, he said to them, "Turn aside and let us take counsel."
 

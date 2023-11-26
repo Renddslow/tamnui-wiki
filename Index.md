@@ -9,7 +9,7 @@
 ## Deities
 - [[Ashur-Azher]]
 - [[Loshur-Telim]]
-- [[Wife]]
+- [[Geneshhi]]
 - [[Early-Grave]]
 - [[Lover]]
 - [[Wise-Hammer]]

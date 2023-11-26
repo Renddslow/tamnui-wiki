@@ -40,7 +40,7 @@ Humanoids [[Prime Humanoid|evolved on the southern continent]] over tens of thou
 - [[Dwavish]]
 - [[Common]]
 - [[Northern Common]]
-- [[Northshore Common]]
+- [[Dengaidd]]
 - [[Islander Common]]
 - [[Coastal Common]]
 - [[Undercommon]]
