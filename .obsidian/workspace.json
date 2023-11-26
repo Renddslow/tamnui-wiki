@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "80699a2780bfb2aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e08c00f34c879e2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dwarfen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "655ac5c232cc9d2a",
         "type": "tabs",
         "children": [
@@ -31,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imperial Ugatoti.md",
+                "file": "Pisteth.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -103,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dwarfen.md",
+                "file": "Pisteth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dwarfen.md",
+                "file": "Pisteth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dwarfen.md"
+                "file": "Pisteth.md"
               }
             }
           }
@@ -165,17 +148,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e08c00f34c879e2c",
+  "active": "57c9307abfa7b246",
   "lastOpenFiles": [
-    "Dwarfen.md",
+    "Har Moed.md",
+    "How Halfling and Dwarf Came to Have Wives.md",
+    "Pisteth.md",
     "Imperial Ugatoti.md",
+    "Geneshhi.md",
+    "Dwarfen.md",
     "Dengaiddhyrk.md",
     "Dengaidd.md",
     "Language Families.md",
     "Index.md",
-    "Geneshhi.md",
     "Languages.md",
-    "How Halfling and Dwarf Came to Have Wives.md",
     "Binding of Shemsharu.md",
     "Shemsharu.md",
     "Prime (deity).md",
@@ -190,7 +175,6 @@
     "images/weaver_portrait.webp",
     "Lover.md",
     "images/lover_portrait.png",
-    "Wise-Hammer.md",
     "The Shepherds.md",
     "Loshur-Telim.md",
     "images/wise_hammer.webp",
@@ -204,7 +188,6 @@
     "images/ashur-azher.webp",
     "Kenku.md",
     "Triton.md",
-    "Loxodon.md",
     "Untitled.canvas",
     "images"
   ]

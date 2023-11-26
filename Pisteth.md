@@ -1,7 +1,7 @@
 ---
 image: /images/wise_hammer.webp
 info_box_type: deity
-name: Wise-Hammer
+name: Pisteth
 titles:
   - The Hammer
 pantheons:
@@ -16,3 +16,4 @@ domains:
   - Metal
   - Iron
 ---
+**Pisteth** ([[Dwarfen]] ᛈᛋ־ᛏᚦ, /pistɛθ/, "wise-hammer") is the god of the forge.

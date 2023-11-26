@@ -84,5 +84,8 @@ Dwarfen script developed initially in the southern mountains as a consonantal la
 - ᛞᚹᚱᛈᚾ (/dwarfɛn/)
 	1. (m. n.) a male [[Dwarf|dwarf]]
 	2. (m. n.) the language of Southern Continent dwarves
+- ᛈᛋ (/pis/)
+	1. (m. adj.) wise
+	2. (m. n.) a wise one
 - ᛏᚦ (/tɛθ/)
 	1. (m. n.) hammer

@@ -17,7 +17,7 @@
 - [[Geneshhi]]
 - [[Early-Grave]]
 - [[Lover]]
-- [[Wise-Hammer]]
+- [[Pisteth]]
 - [[Prime (deity)]]
 
 ## Races
