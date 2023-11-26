@@ -6,6 +6,11 @@
 - [[How Halfling and Dwarf Came to Have Wives]]
 - [[How Human Came to Have a Wife]]
 
+## Languages
+- [[Imperial Ugatoti]]
+- [[Dengaidd]]
+- [[Ancient Mousefolk]]
+- [[Dwarfen]]
 ## Deities
 - [[Ashur-Azher]]
 - [[Loshur-Telim]]

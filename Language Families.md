@@ -37,8 +37,7 @@ Humanoids [[Prime Humanoid|evolved on the southern continent]] over tens of thou
 ![[images/southern_continent_lang_fam.png]]
 #### Languages
 
-- [[Dwavish]]
-- [[Common]]
+- [[Dwarfen]]
 - [[Northern Common]]
 - [[Dengaidd]]
 - [[Islander Common]]
@@ -46,7 +45,7 @@ Humanoids [[Prime Humanoid|evolved on the southern continent]] over tens of thou
 - [[Undercommon]]
 ### Theriaoid
 
-Somewhere around the time of the [[Northern Changing]], the Proto-Theriaoid language began to be spoken by all bi-pedal, land-dwelling beast-men in the northern continent.
+Somewhere around the time of the [[Northern Changing]], the Proto-Theriaoid language began to be spoken by all land-dwelling beast-men in the northern continent.
 
 As the three races became isolated from one another and moving into different climate zones, they developed distinctive languages over the course of thousands of years. Eventually, Centaurs and Northern Humans would develop close relations and a language influenced by both Northshore Common and Centaur developed.
 
