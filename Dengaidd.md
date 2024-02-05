@@ -32,7 +32,7 @@ Stress in polysyllabic words occurs most commonly on the second-to-last syllable
 
 ## Orthography
 
-The Dengaidd writing system is based heavily on the Dwarven writing system, though most symbols have taken on different names and some refer to different phonemes.
+The Dengaidd writing system is based heavily on the Dwarfen writing system, though most symbols have taken on different names and some refer to different phonemes.
 
 | Symbol | Transliteration | IPA | Dengaidd Name |
 | --- | --- | --- | --- |

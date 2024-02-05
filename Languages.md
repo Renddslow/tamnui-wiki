@@ -7,6 +7,8 @@ The following languages are spoken in the vernacular by ethnic groups and cultur
 
 - [[Imperial Ugatoti]]
 - [[Dengaidd]]
+- [[Dwarfen]]
+- [[Hahakâ]]
 
 ## Cultural/Religious Languages
 The following languages are retained for their importance in religious or cultural participation by its speakers. It is seldom used in everyday speech, but informs cultural artifacts like names, cultic practices, and scholarship. These languages are not strictly speaking dead, but are hardly living languages.
