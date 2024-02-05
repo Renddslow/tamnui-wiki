@@ -6,8 +6,8 @@ titles:
   - The Hammer
 pantheons:
   - Coastal Human
-  - Southern Continent Halfling
   - Shepherds
+  - Dengaidd
 gender: Masculine
 alignment: Lawful Good
 domains:

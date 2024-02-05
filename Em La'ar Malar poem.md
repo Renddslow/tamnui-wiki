@@ -1,6 +1,6 @@
 ## Origin
 
-The poem was likely drafted around [[9,600 BME]], based on [[Psychometry|psychometric]] and archaeological evidence. The poem belongs to a cache of [[Ancient Mousefolk]] texts found at [[Tel Mouse Forge]] in [[145 BME]].
+The poem was likely drafted around [[9,600 BME]], based on [[Psychometry|psychometric]] and archaeological evidence. The poem belongs to a cache of [[Lu'emi]] texts found at [[Tel Mouse Forge]] in [[145 BME]].
 
 ## Interpretation
 

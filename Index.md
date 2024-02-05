@@ -9,7 +9,7 @@
 ## Languages
 - [[Imperial Ugatoti]]
 - [[Dengaidd]]
-- [[Ancient Mousefolk]]
+- [[Lu'emi]]
 - [[Dwarfen]]
 ## Deities
 - [[Ashur-Azher]]

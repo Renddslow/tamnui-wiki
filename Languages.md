@@ -11,7 +11,7 @@ The following languages are spoken in the vernacular by ethnic groups and cultur
 ## Cultural/Religious Languages
 The following languages are retained for their importance in religious or cultural participation by its speakers. It is seldom used in everyday speech, but informs cultural artifacts like names, cultic practices, and scholarship. These languages are not strictly speaking dead, but are hardly living languages.
 
-- [[Ancient Mousefolk]]
+- [[Lu'emi]]
 - [[Ancient Satyr]]
 
 [^1]: The [[Portals]] are unidirectional and seem to only funnel creatures from Jotun and Lauds *to* Prime, not the other direction. Further, the Portals have opened only about once every few centuries, leading many to wonder if they will open again.

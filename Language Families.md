@@ -16,16 +16,16 @@ The languages spoken primarily by woodland beast-men. The earliest common langua
 
 Ancient Mousefolk is well attested in art and literature, though it no longer has speakers. While it is clearly influenced by Ancient Rabbitfolk, it shares features with an unattested common ancestor of Ancient Satyr.
 
-Ancient Satyr has undergone a resurgence through the influence of [[The Shepherds]]—a nomadic, Satyr people-group who primarily sojourn on the [[Northshore]]. It has not undergone serious development, though sociologists and linguists suspect that in a few hundred years it will naturally give way to a Modern Satyr which is influenced by its ancient parent and Northshore Common.
+Ancient Satyr has undergone a resurgence through the influence of [[The Shepherds]]—a nomadic, Satyr people-group who primarily sojourn on the [[Northern Continent]]. It has not undergone serious development, though sociologists and linguists suspect that in a few hundred years it will naturally give way to a Modern Satyr which will be influenced by its ancient parent and [[Northern Common]].
 
 Rabbitfolk dominance has led to two distinct dialects and an imperial tradelanguage. East Rabbitfolk is most commonly associated with high art, politics, and scholarship, while Central Rabbitfolk is the more common—among Harengon and Mousefolk—dialect. Due to the enslavement of Goblins and Hobgoblins by the upperclass of the Ugati Empire, Modern Goblinoid has undergone serious adaptation.
 
-Ancient Mousefolk is still used occasionally in certain cultic practices, like in the worship of [[Field Mouse Mother]] and [[Black Cat]], but otherwise is merely a cultural artifact of Mousefolk culture.
+Ancient Mousefolk is still used occasionally in certain cultic practices, like in the worship of [[Amat Sedech]] and [[Black Cat]], but otherwise is merely a cultural artifact of Mousefolk culture.
 
 ![[images/gliresoid_lang_fam.png]]
 #### Languages
 
-- [[Ancient Mousefolk]]
+- [[Lu'emi]]
 - [[Ancient Satyr]]
 - [[Imperial Ugatoti]]
 - [[East Rabbitfolk]]
